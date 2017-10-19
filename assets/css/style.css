@@ -1,0 +1,118 @@
+
+section {
+	height: 50px;
+	width: 100%;
+
+}
+
+header{
+	border-bottom: solid lightgray; 
+	position: relative;
+	background: white;
+	opacity: 0%;
+}
+
+div {
+	background: white;
+	padding: 20px;
+	width: 50%;
+	position: relative;
+	margin-left: 10%;
+	margin-top: 30px;
+}
+
+#name	{
+	font-family: Times New Roman, serif;
+	font-size: 18pt;
+	font-weight: bold;
+	background-color: #33a09b;
+	color: white;
+	position: static;
+	top: 6%;
+	left: 2%;
+	width: 200px;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	height: 25px;
+	margin-left: 10%;
+
+}
+
+#nav {
+	font-family: Ariel, sans-serif;
+	position: fixed;
+	margin-top: 10px;
+	top: 5px;
+	right: -650px;
+	padding: 10px;
+	padding-bottom: 30px;
+}
+
+#aboutmeline {
+
+}
+
+#connect {
+	background: white;
+	width: 25%;
+	height: 15%;
+	padding: 10px;
+	position: absolute;
+	top: 100;
+	right: 20;
+	color: #33a09b;
+	font-family: "Times New Roman", serif;
+	
+}
+
+section {
+	border: 10px color: gray;
+	word-wrap: break-word; 
+	font-family: Ariel, sans-serif;
+	padding: 20pt;
+
+}
+
+h1 {
+	font-size: 18pt; 
+	font-weight: bold;
+	padding: 20px;
+	color: #33a09b;
+	background: white;
+}
+
+p {
+	background: white;
+	padding-left: 20px;
+	font-family: Ariel, sans-serif;
+	padding: 20pt;
+	width: 200px;
+	position: absolute;
+	top: 110px;
+	right: 10px;
+	z-index: 2;
+
+}
+
+img {
+	padding: 20px;
+	background: white;
+}
+
+body {
+	background-image: url("http://yiworks.com/wp-content/uploads/2016/11/Light-Grey-Background-Hd-5-1.jpg");
+	background-size: 100%;
+}
+footer {
+	font-family: Ariel, sans-serif;
+	text-align: center;
+	color: white;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	background: #606060;
+	padding: 50px;
+	border-top: solid #33a09b;
+	border-width: 10px;
+}
